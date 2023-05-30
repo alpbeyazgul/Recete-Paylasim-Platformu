@@ -1,0 +1,9 @@
+-- Veritabanı tablo yapısını buraya ekleyin
+-- Örnek olarak:
+-- CREATE TABLE tarifler (
+--     id INT AUTO_INCREMENT PRIMARY KEY,
+--     ad VARCHAR(255) NOT NULL,
+--     malzemeler TEXT,
+--     tarif TEXT,
+--     tarih DATETIME DEFAULT CURRENT_TIMESTAMP
+-- );
